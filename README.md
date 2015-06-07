@@ -1,2 +1,2 @@
 # coderin90
-Assignments for Python/Django course from CoderIn90
+Code assignments for Python/Django course from CoderIn90
